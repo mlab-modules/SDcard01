@@ -1,0 +1,17 @@
+description: Simple SD card terminal with voltage regulator.
+github_branch: SDcard01A
+github_description: Simple SD card terminal with voltage regulator.
+github_repo: SDcard01
+github_url: https://github.com/mlab-modules/SDcard01
+homepage: false
+images:
+- doc/img/SDCARD01A_bottom_small.jpg
+- doc/img/SDCARD01A_bottom_big.jpg
+- doc/img/SDCARD01A_top_big.jpg
+- doc/img/SDCARD01A_top_small.jpg
+- doc/img/SDcard01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: SDcard01
+updated: '2023-09-17T11:38:29.343682+00:00'
